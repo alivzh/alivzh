@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alivegamer0099" alt="alivegamer0099" /></a> </p>
 
-- currently working on [DevOps](https://github.com/alivegamer0099/DevOps)
+- currently working on [DevOps](https://github.com/alivegamer0099/DevOps_Certification)
 
 - 💬 How to reach me ? ---> **alive@aliveland.ir**
 
