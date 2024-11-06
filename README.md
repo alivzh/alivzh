@@ -10,7 +10,5 @@
 
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alivegamer0099&amp;theme=cobalt2&amp;show_icons=true&amp;card_width=495px" alt="GitHub stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alivegamer0099&amp;show_icons=true&amp;theme=tokyonight" alt="Streak stats">  </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdoob&langs_count=3&hide_title=true&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alivegamer0099&langs_count=3&hide_title=true&hide_border=true" />
 
