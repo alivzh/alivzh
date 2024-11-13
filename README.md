@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Valizadeh ☕</h1>
-<p>I’m an early DevOps enthusiast and professional Cloud Architect, dedicated to mastering automation, infrastructure, and cloud engineering. Doing DevOps for life with strong networking knowledge and scripting expertise in Python.</p>
+<p>I’m an early DevOps enthusiast and professional Cloud Architect,System adminstrator, dedicated to mastering automation, infrastructure, and cloud engineering. Doing DevOps for life with strong networking knowledge and scripting expertise in Python.</p>
 
 - 🔭 Currently working on [DevOps](https://github.com/alivegamer0099/DevOps) and [DevOpsPracticeProject1](https://github.com/alivegamer0099/DevOps_PP1)
 - 💬 **How to reach me?**
