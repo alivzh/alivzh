@@ -8,7 +8,7 @@
   - My CV website: <a href="https://alivzh.ir" target="_blank">alivzh.ir</a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><a href="#">
+<p>
   <img src="https://img.shields.io/badge/linux-%23D42029?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/devops-0A66C2?style=for-the-badge&amp;logo=devops&amp;logoColor=white" alt="DevOps">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/elk-%23009639.svg?style=for-the-badge&amp;logo=elk&amp;logoColor=white" alt="ELK">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
-</a>></p>
+</p>
 
 <p>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alivegamer0099&amp;theme=cobalt2&amp;show_icons=true&amp;card_width=495px" alt="GitHub stats">
