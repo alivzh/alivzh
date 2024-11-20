@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Ali !
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2;I’m an early DevOps enthusiast and Cloud Architect, dedicated to mastering automation, infrastructure, and cloud engineering.;
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2%20I’m an early DevOps enthusiast and Cloud Architect, dedicated to mastering automation, infrastructure, and cloud engineering.;
 Doing DevOps for life with strong networking knowledge and scripting expertise in some languages. ⚒️ )](https://git.io/typing-svg)
 
 ## 💫  More About Me:
