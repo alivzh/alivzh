@@ -42,7 +42,7 @@ Doing DevOps for life with strong networking knowledge and scripting expertise i
 
 
 # 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alivegamer0099&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><br>
+![](https://github-readme-stats.vercel.app/api?username=alivegamer0099&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alivegamer0099&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alivegamer0099&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
