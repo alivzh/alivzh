@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Ali !
-<p>I’m an early DevOps enthusiast and Cloud Architect, dedicated to mastering automation, infrastructure, and cloud engineering.<br/>
- Doing DevOps for life with strong networking knowledge and scripting expertise in some languages. ⚒️ </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m an early DevOps enthusiast and Cloud Architect, dedicated to mastering automation, infrastructure, and cloud engineering.;
+Doing DevOps for life with strong networking knowledge and scripting expertise in some languages. ⚒️ )](https://git.io/typing-svg)
 
 ## 💫  More About Me:
 
@@ -42,7 +42,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alivegamer0099&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="alivegamer0099's Github Stats"><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alivegamer0099&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alivegamer0099&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
