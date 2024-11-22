@@ -10,8 +10,8 @@ Doing DevOps for life with strong networking knowledge and scripting expertise i
   - Email: **alive@aliveland.ir**
   - Telegram: **[click_here](https://t.me/itsalivee)**
 
-🤝 I’m looking for help **ansible**<br>
-🌱 I’m currently learning **ansible**<br>
+🤝 I’m looking for help **-**<br>
+🌱 I’m currently learning **![RahBia-Live-Coding](https://github.com/AhmadRafiee/RahBia-Live-Coding)**<br>
 💬 Ask me about anything.<br>
 
 # 💻 Tech Stack:
