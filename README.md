@@ -50,4 +50,4 @@ Doing DevOps for life with strong networking knowledge and scripting expertise i
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alivzh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alivzh&label=&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
