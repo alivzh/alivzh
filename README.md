@@ -10,9 +10,11 @@ Doing DevOps for life with strong networking knowledge and scripting expertise i
   - Email: **alive@aliveland.ir**
   - Telegram: **[click_here](https://t.me/itsalivee)**
 
-🤝 I’m looking for help **-**<br>
-🌱 I’m currently learning **![RahBia-Live-Coding](https://github.com/AhmadRafiee/RahBia-Live-Coding)**<br>
-💬 Ask me about anything.<br>
+🌱 I’m currently learning **![RahBia-Live-Coding](https://github.com/AhmadRafiee/RahBia-Live-Coding)** </br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alivzh&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" /> </br>
+
+
 
 # 💻 Tech Stack:
 ![DevOps](https://img.shields.io/badge/devops-0A66C2?style=for-the-badge&amp;logo=devops&amp;logoColor=white)
@@ -29,7 +31,7 @@ Doing DevOps for life with strong networking knowledge and scripting expertise i
 ![Gitlab](https://img.shields.io/badge/Gitlab-%235835CC.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-%23D42029?style=for-the-badge&amp;logo=Ceph&amp;logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23D42029?style=for-the-badge&amp;logo=Prometheus&amp;logoColor=white)
-![elk](https://img.shields.io/badge/elk-%23009639.svg?style=for-the-badge&amp;logo=elk&amp;logoColor=white)
+![elk](https://img.shields.io/badge/elk-%23009639.svg?style=for-the-badge&amp;logo=elk&amp;logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,12 +44,16 @@ Doing DevOps for life with strong networking knowledge and scripting expertise i
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alivzh&theme=dark&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alivzh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alivzh&theme=dark&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alivzh&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alivzh&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alivzh&label=&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
