@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Ali !
-<p>I’m an early DevOps enthusiast and Cloud Architect, dedicated to mastering automation, infrastructure, and cloud engineering.<br/>
-Doing DevOps for life with strong networking knowledge and scripting expertise in some languages. ⚒️</p>
+<p>I’m an early "DevOps enthusiast","SRE Engineer","Sys Admin"or whatever dedicated to mastering automation, infrastructure, and cloud engineering.<br/>
+Doing DevOps for life with some networking knowledge and scripting expertise in some languages. ⚒️</p>
 
 ## 💫  More About Me:
 
