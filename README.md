@@ -10,7 +10,7 @@ Doing DevOps for life with some networking knowledge and scripting expertise in 
   - Email: **alive@aliveland.ir**
   - Telegram: **[click_here](https://t.me/itsalivee)**
 
-🌱 I’m currently learning **![RahBia-Live-Coding](https://github.com/AhmadRafiee/RahBia-Live-Coding)** </br>
+🌱 I’m currently learning **[RahBia-Live-Coding](https://github.com/AhmadRafiee/RahBia-Live-Coding)** </br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alivzh&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" /> </br>
 
